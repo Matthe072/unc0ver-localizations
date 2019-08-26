@@ -2,25 +2,25 @@
   Localizable.strings
   Undecimus
 
-  Created by Sam Gardner on 8/26/19.
+  Gemaakt door Sam Gardner op 8/26/19.
   Copyright © 2019 Pwn20wnd. All rights reserved.
 */
 
 "Bundled Resources version missing." = "Bundled Resources version missing."
-"Unsupported" = "Unsupported"
-"Restore RootFS" = "Restore RootFS"
+"niet ondersteund" = "niet ondersteund"
+"herstel RootFS" = "herstel RootFS"
 "Ready to restore RootFS" = "Ready to restore RootFS"
 "Re-Jailbreak" = "Re-Jailbreak"
 "Ready to re-jailbreak" = "Ready to re-jailbreak"
 "Jailbreak" = "Jailbreak"
 "Ready to jailbreak" = "Ready to jailbreak"
-"Error" = "Error"
+"fout" = "fout"
 "Bundled Resources version is missing. This build is invalid." = "Bundled Resources version is missing. This build is invalid."
-"Days" = "Days"
+"Dagen" = "Dagen"
 "Invalid Entry" = "Invalid Entry"
 "The boot nonce entered could not be parsed" = "The boot nonce entered could not be parsed"
-"OK" = "OK"
-"The device will be restarted." = "The device will be restarted."
+"oke" = "oke"
+"het apparaat wordt opnieuw gestart." = "het apparaat wordt opnieuw gestart."
 "Copy boot nonce?" = "Copy boot nonce?"
 "Would you like to copy nonce generator to clipboard?" = "Would you like to copy nonce generator to clipboard?"
 "Yes" = "Yes"
