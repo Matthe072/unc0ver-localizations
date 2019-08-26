@@ -7,7 +7,7 @@
 */
 
 "Bundled Resources version missing." = "Bundled Resources version missing."
-"Unsupported" = "Unsupported"
+"wordt niet ondersteund" = "wordt niet ondersteund"
 "Restore RootFS" = "Restore RootFS"
 "Ready to restore RootFS" = "Ready to restore RootFS"
 "Re-Jailbreak" = "Re-Jailbreak"
